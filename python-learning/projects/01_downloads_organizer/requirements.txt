@@ -1,0 +1,7 @@
+# Downloads Organizer Dependencies
+# Currently uses only Python standard library modules
+# (No external dependencies required)
+
+# For future enhancements:
+# watchdog==3.0.0  # For monitoring folder changes in real-time
+# colorama==0.4.6  # For colored terminal output
