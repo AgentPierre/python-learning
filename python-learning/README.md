@@ -2,6 +2,13 @@
 
 A structured repository for learning Python and building automation projects over 4–5 weeks.
 
+
+## 🍴 Fork This Repository
+
+Feel free to fork this repo and use it as a template for your own Python learning journey! 
+Simply fork it, delete my personal notes and code, and make it your own.
+
+
 ## 📚 Learning Resources
 
 - [freeCodeCamp Python Course](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
