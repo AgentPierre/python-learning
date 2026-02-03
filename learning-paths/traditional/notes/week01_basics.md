@@ -1,6 +1,6 @@
 # Week 1: Python Basics
 
-**Date**: January 27 - February 2, 2026  
+**Date**: Feburary 2, - February 7, 2026  
 **Focus**: Variables, data types, basic operations, control flow
 
 ## Topics Covered
