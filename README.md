@@ -28,7 +28,7 @@ A complete Python learning system that:
 - Like exercises and course-based learning
 - Are new to programming
 
-**Start here:** [Traditional Learning Path](learning-paths/traditional/README.md)
+**Start here:** [Traditional Learning Path](01_learning-paths/traditional/README.md)
 
 **Timeline:** 4-5 weeks, 5-10 hours/week
 
@@ -41,7 +41,7 @@ A complete Python learning system that:
 - Want to master AI collaboration
 - Already know basic programming concepts
 
-**Start here:** [AI-Native Learning Path](learning-paths/ai-native/problem_solving/README.md)
+**Start here:** [AI-Native Learning Path](01_learning-paths/ai-native/problem_solving/README.md)
 
 **Timeline:** Flexible, project-based
 
@@ -59,7 +59,7 @@ A complete Python learning system that:
 3. Apply what you learned back to your project
 4. Repeat
 
-**Start here:** Pick any project from [projects/](projects/README.md)
+**Start here:** Pick any project from [02_projects/](02_projects/README.md)
 
 ---
 
@@ -68,7 +68,7 @@ A complete Python learning system that:
 ```
 python-learning/
 │
-├── 📖 learning-paths/          # Two complete learning approaches
+├── 01_learning-paths/          # Two complete learning approaches
 │   ├── traditional/            # Week-by-week, structured learning
 │   │   ├── courses/           # Course materials & tutorials
 │   │   ├── exercises/         # Topic-based practice
@@ -77,7 +77,7 @@ python-learning/
 │   └── ai-native/             # Problem-first, AI-collaborative
 │       └── problem_solving/   # Real challenges to solve
 │
-├── 🛠️ projects/                # Real automation tools
+├── 02_projects/                # Real automation tools
 │   ├── 01_downloads_organizer/
 │   │   ├── main.py           # Working code
 │   │   ├── ai_iterations/    # AI collaboration history
@@ -86,12 +86,12 @@ python-learning/
 │   ├── 03_web_scraper/
 │   └── 04_pdf_invoice_generator/
 │
-├── 🧠 concepts/                # Python mental models
+├── 03_concepts/                # Python mental models
 │   ├── mental_models/         # How to THINK about Python
 │   ├── pattern_recognition/   # Common code patterns
 │   └── quick_reference/       # Fast recall after time away
 │
-├── 📚 guides/                  # How-to guides
+├── 04_guides/                  # How-to guides
 │   ├── ai_collaboration/      # Working effectively with AI
 │   │   ├── prompting_mastery/
 │   │   ├── reviewing_ai_code/
@@ -102,7 +102,7 @@ python-learning/
 │   │
 │   └── best_practices/        # Code quality & standards
 │
-└── 📋 resources/               # References & tools
+└── 05_resources/               # References & tools
     ├── coming_back_guide.md   # Returning after time away
     ├── AI_NATIVE_RESOURCES.md # AI tools & tips
     └── QUICK_REFERENCE.md     # Python syntax cheat sheet
@@ -139,12 +139,12 @@ python-learning/
 Follow [SETUP.md](SETUP.md) to install Python and configure your tools.
 
 ### 2. **Choose Your Starting Path**
-- **Structured learner?** → [Traditional path](learning-paths/traditional/README.md)
-- **Project-driven learner?** → [AI-native path](learning-paths/ai-native/problem_solving/README.md)
+- **Structured learner?** → [Traditional path](01_learning-paths/traditional/README.md)
+- **Project-driven learner?** → [AI-native path](01_learning-paths/ai-native/problem_solving/README.md)
 - **Not sure?** → Read [How to Use This Repo](HOW_TO_USE.md)
 
 ### 3. **Build Your First Project**
-Every path leads to building real projects. Start with the [Downloads Organizer](projects/01_downloads_organizer/README.md) - it's beginner-friendly and actually useful.
+Every path leads to building real projects. Start with the [Downloads Organizer](02_projects/01_downloads_organizer/README.md) - it's beginner-friendly and actually useful.
 
 ### 4. **Track Your Progress**
 - Traditional learners: Use the weekly notes system

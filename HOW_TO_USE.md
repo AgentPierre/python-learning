@@ -43,10 +43,10 @@ Not sure where to start? This guide will help you understand how everything fits
 ### What You'll Do:
 
 **Week 1: Python Basics**
-- Location: `learning-paths/traditional/courses/freecodecamp/01_introduction/`
+- Location: `01_learning-paths/traditional/courses/freecodecamp/01_introduction/`
 - Topics: Variables, data types, basic operations
-- Practice: `learning-paths/traditional/exercises/01_basics/`
-- Notes: `learning-paths/traditional/notes/week01_basics.md`
+- Practice: `01_learning-paths/traditional/exercises/01_basics/`
+- Notes: `01_learning-paths/traditional/notes/week01_basics.md`
 
 **Week 2: Data Structures**
 - Learn lists, dictionaries, tuples, sets
@@ -86,10 +86,10 @@ Not sure where to start? This guide will help you understand how everything fits
 - Recommended: Let concepts settle
 
 ### Key Resources:
-- **Courses:** `learning-paths/traditional/courses/`
-- **Exercises:** `learning-paths/traditional/exercises/`
-- **Notes:** `learning-paths/traditional/notes/`
-- **References:** `resources/QUICK_REFERENCE.md`
+- **Courses:** `01_learning-paths/traditional/courses/`
+- **Exercises:** `01_learning-paths/traditional/exercises/`
+- **Notes:** `01_learning-paths/traditional/notes/`
+- **References:** `05_resources/QUICK_REFERENCE.md`
 
 ---
 
@@ -167,10 +167,10 @@ Not sure where to start? This guide will help you understand how everything fits
 - Apply best practices from `guides/best_practices/`
 
 ### Key Resources:
-- **Problem Solving:** `learning-paths/ai-native/problem_solving/`
-- **AI Collaboration:** `guides/ai_collaboration/`
-- **Mental Models:** `concepts/mental_models/`
-- **Patterns:** `concepts/pattern_recognition/`
+- **Problem Solving:** `01_learning-paths/ai-native/problem_solving/`
+- **AI Collaboration:** `04_guides/ai_collaboration/`
+- **Mental Models:** `03_concepts/mental_models/`
+- **Patterns:** `03_concepts/pattern_recognition/`
 
 ---
 
@@ -241,27 +241,27 @@ Not sure where to start? This guide will help you understand how everything fits
 ### Finding What You Need:
 
 **"I want to learn [concept]"**
-→ Check: `learning-paths/traditional/courses/`
-→ Then: `concepts/mental_models/`
+→ Check: `01_learning-paths/traditional/courses/`
+→ Then: `03_concepts/mental_models/`
 
 **"I want to build [tool]"**
-→ Check: `projects/` for similar examples
-→ Then: `guides/ai_collaboration/` for how to build with AI
+→ Check: `02_projects/` for similar examples
+→ Then: `04_guides/ai_collaboration/` for how to build with AI
 
 **"I want to practice [skill]"**
-→ Check: `learning-paths/traditional/exercises/`
+→ Check: `01_learning-paths/traditional/exercises/`
 
 **"I don't understand this code"**
-→ Check: `concepts/mental_models/` for concepts
-→ Then: `concepts/pattern_recognition/` for patterns
-→ Finally: `resources/QUICK_REFERENCE.md` for syntax
+→ Check: `03_concepts/mental_models/` for concepts
+→ Then: `03_concepts/pattern_recognition/` for patterns
+→ Finally: `05_resources/QUICK_REFERENCE.md` for syntax
 
 **"How do I work with AI effectively?"**
-→ Read: `guides/ai_collaboration/prompting_mastery/`
+→ Read: `04_guides/ai_collaboration/prompting_mastery/`
 
 **"I'm coming back after time away"**
-→ Read: `resources/coming_back_guide.md`
-→ Then: `concepts/quick_reference/5min_refresher.md`
+→ Read: `05_resources/coming_back_guide.md`
+→ Then: `03_concepts/quick_reference/5min_refresher.md`
 
 ---
 
@@ -513,14 +513,14 @@ git commit -m "Downloads organizer: Added duplicate file handling"
 ## 🎓 Next Steps Based on Your Choice
 
 ### Chose Traditional Path?
-→ **Go to:** [learning-paths/traditional/README.md](learning-paths/traditional/README.md)
+→ **Go to:** [01_learning-paths/traditional/README.md](01_learning-paths/traditional/README.md)
 
 ### Chose AI-Native Path?
-→ **Go to:** [learning-paths/ai-native/problem_solving/README.md](learning-paths/ai-native/problem_solving/README.md)
+→ **Go to:** [01_learning-paths/ai-native/problem_solving/README.md](01_learning-paths/ai-native/problem_solving/README.md)
 
 ### Chose Hybrid Approach?
-→ **Start here:** [projects/README.md](projects/README.md)  
-→ **Keep handy:** This guide + `concepts/mental_models/`
+→ **Start here:** [02_projects/README.md](02_projects/README.md)  
+→ **Keep handy:** This guide + `03_concepts/mental_models/`
 
 ### Still Not Sure?
 → **Start with:** Downloads Organizer project  

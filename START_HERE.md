@@ -12,11 +12,11 @@ Welcome to your Python learning repository!
 
 ###  Traditional Path
 Structured, week-by-week learning with courses and exercises.  
- [Start Traditional Path](learning-paths/traditional/README.md)
+→ [Start Traditional Path](01_learning-paths/traditional/README.md)
 
-###  AI-Native Path
+### 🤖 AI-Native Path
 Problem-first approach with AI collaboration.  
- [Start AI-Native Path](learning-paths/ai-native/README.md)
+→ [Start AI-Native Path](01_learning-paths/ai-native/README.md)
 
 ###  Hybrid Path
 Mix both approaches as needed.  

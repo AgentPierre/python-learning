@@ -59,7 +59,7 @@ Generate professional PDF invoices from templates
 ## 📖 How to Use These Projects
 
 ### Traditional Learning Path:
-1. Learn concepts first from `learning-paths/traditional/`
+1. Learn concepts first from `../../01_learning-paths/traditional/`
 2. Complete relevant exercises
 3. Build the project step-by-step
 4. Document your learning
