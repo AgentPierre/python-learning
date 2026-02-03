@@ -104,7 +104,7 @@ Not sure where to start? This guide will help you understand how everything fits
 ### What You'll Do:
 
 **Phase 1: Learn Problem Decomposition (Day 1-2)**
-- Read: `learning-paths/ai-native/problem_solving/thinking_frameworks/`
+- Read: `01_learning-paths/ai-native/problem_solving/thinking_frameworks/`
 - Learn how to break big problems into solvable pieces
 - Understand how to define clear requirements
 
@@ -123,8 +123,8 @@ Not sure where to start? This guide will help you understand how everything fits
 
 **Phase 4: Understand Concepts (Ongoing)**
 - As you build, identify concepts you don't understand
-- Read: `concepts/mental_models/`
-- Learn patterns: `concepts/pattern_recognition/`
+- Read: `03_concepts/mental_models/`
+- Learn patterns: `03_concepts/pattern_recognition/`
 - Build mental models, not memorize syntax
 
 ### Your Project Workflow:
@@ -191,13 +191,13 @@ Not sure where to start? This guide will help you understand how everything fits
 
 **Learn concepts as needed** (traditional style)
 1. When you hit a concept you don't understand, pause
-2. Go to `learning-paths/traditional/` and learn that concept
-3. Do exercises in `exercises/` to practice
+2. Go to `01_learning-paths/traditional/` and learn that concept
+3. Do exercises in `01_learning-paths/traditional/exercises/` to practice
 4. Return to your project and apply what you learned
 
 **Build understanding** (best of both)
-1. Document what you learned in `notes/`
-2. Add mental models to `concepts/`
+1. Document what you learned in `01_learning-paths/traditional/notes/`
+2. Add mental models to `03_concepts/`
 3. Track your AI collaboration process
 4. Review both the project code AND the concepts
 
@@ -291,7 +291,7 @@ Not sure where to start? This guide will help you understand how everything fits
 [What's coming up?]
 ```
 
-**Save in:** `learning-paths/traditional/notes/weekXX_[topic].md`
+**Save in:** `01_learning-paths/traditional/notes/weekXX_[topic].md`
 
 ---
 
@@ -350,8 +350,8 @@ git commit -m "Downloads organizer: Added duplicate file handling"
 ### Complete Beginner (4-5 weeks):
 
 **Week 1:** Traditional basics
-- `learning-paths/traditional/courses/freecodecamp/01_introduction/`
-- `learning-paths/traditional/exercises/01_basics/`
+- `01_learning-paths/traditional/courses/freecodecamp/01_introduction/`
+- `01_learning-paths/traditional/exercises/01_basics/`
 
 **Week 2:** Continue traditional + start first project
 - Finish course modules
@@ -371,7 +371,7 @@ git commit -m "Downloads organizer: Added duplicate file handling"
 ### Some Programming Experience (2-3 weeks):
 
 **Week 1:** AI-native introduction
-- `guides/ai_collaboration/`
+- `04_guides/ai_collaboration/`
 - Build Downloads Organizer with AI
 - Fill knowledge gaps with traditional materials
 
@@ -390,8 +390,8 @@ git commit -m "Downloads organizer: Added duplicate file handling"
 ### Coming Back After Time Away:
 
 **Day 1 (30 minutes):**
-- Read: `resources/coming_back_guide.md`
-- Skim: `concepts/quick_reference/5min_refresher.md`
+- Read: `05_resources/coming_back_guide.md`
+- Skim: `03_concepts/quick_reference/5min_refresher.md`
 
 **Day 2 (1 hour):**
 - Run one of your old projects

@@ -229,8 +229,8 @@ Every path leads to building real projects. Start with the [Downloads Organizer]
 ### This Repository's Guides
 - [Setup Guide](SETUP.md) - Installing Python & tools
 - [How to Use This Repo](HOW_TO_USE.md) - Navigation & best practices
-- [Coming Back Guide](resources/coming_back_guide.md) - Returning after time away
-- [AI Collaboration Guide](guides/ai_collaboration/prompting_mastery/README.md) - Working with AI
+- [Coming Back Guide](05_resources/coming_back_guide.md) - Returning after time away
+- [AI Collaboration Guide](04_guides/ai_collaboration/prompting_mastery/README.md) - Working with AI
 
 ---
 

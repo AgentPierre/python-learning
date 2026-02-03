@@ -451,10 +451,10 @@ Before you start learning, verify:
 ## 🎯 Next Steps
 
 ### For Traditional Learners:
-→ Go to [learning-paths/traditional/README.md](learning-paths/traditional/README.md)
+→ Go to [01_learning-paths/traditional/README.md](01_learning-paths/traditional/README.md)
 
 ### For AI-Native Learners:
-→ Go to [learning-paths/ai-native/problem_solving/README.md](learning-paths/ai-native/problem_solving/README.md)
+→ Go to [01_learning-paths/ai-native/problem_solving/README.md](01_learning-paths/ai-native/problem_solving/README.md)
 
 ### Not Sure Which Path?
 → Read [HOW_TO_USE.md](HOW_TO_USE.md)
