@@ -1,46 +1,53 @@
 # Course Materials
 
-Code and projects directly from structured courses.
+**Note:** This repo focuses on AI-native learning through real projects. For traditional course content, we recommend external resources.
 
-## Active Courses
+## Recommended Courses
 
-### freeCodeCamp Python Course
-- **Link**: [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-- **Structure**: Follow-along code organized by course sections
-- **Location**: `freecodecamp/`
+### Free (Start Here)
+- **[freeCodeCamp - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)**  
+  Free certification, excellent structure, active community
 
-### Automate the Boring Stuff with Python
-- **Link**: [Book Website](https://automatetheboringstuff.com/)
-- **Structure**: Chapter-based projects and exercises
-- **Location**: `automate_the_boring_stuff/`
+- **[Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)**  
+  Free online book, practical focus, perfect complement to this repo
 
-## Organization
+- **[Python for Everybody (Coursera)](https://www.coursera.org/specializations/python)**  
+  University of Michigan, beginner-friendly, free to audit
 
-Each course has:
-- Subfolders matching the course structure (sections/chapters)
-- Code files that follow along with lessons
-- Practice problems from the course
-- Small projects or assignments
+### Paid (If You Want More)
+- **[Python Crash Course](https://ehmatthes.github.io/pcc/)** (~$40)  
+  Book + projects, great for fundamentals
 
-## Usage Tips
+- **[Real Python](https://realpython.com/)** (~$60/year)  
+  Deep dives into specific topics, high quality
 
-1. **Name files descriptively**: `password_validator.py` not `exercise3.py`
-2. **Add comments**: Explain what each section does
-3. **Keep it organized**: One folder per chapter/section
-4. **Link to lessons**: Add comments with the lesson URL
+- **[100 Days of Code: Python](https://www.udemy.com/course/100-days-of-code/)** (~$15 on sale)  
+  Project-based, builds 100 things
 
-## Difference from `exercises/`
+## How This Repo Complements Courses
 
-- **`courses/`**: Specific to course curriculum, follow-along code
-- **`exercises/`**: General practice, not tied to a specific course
+**Traditional Course → This Repo Workflow:**
 
-## Example Structure
+1. **Learn concepts** from course (variables, loops, functions, etc.)
+2. **Come to this repo** when ready to build something real
+3. **Use `problem_solving/`** to tackle real-world challenges
+4. **Apply AI collaboration** to build faster
+5. **Use understanding checkpoints** to ensure you actually learned
 
-```
-automate_the_boring_stuff/
-├── ch08_files/
-│   ├── file_renamer.py      # Chapter 8 project
-│   └── folder_organizer.py  # Practice problem
-└── ch12_excel/
-    └── expenses_summary.py  # Chapter 12 project
-```
+**Example:**
+- Complete freeCodeCamp chapters 1-8 (Python basics)
+- Build Downloads Organizer from `problem_solving/real_world_challenges/`
+- Use what you learned from the course + AI to build it
+- Document your understanding in `projects/01_downloads_organizer/understanding/`
+
+## Why Not Duplicate Course Content Here?
+
+**Focus:** This repo's unique value is teaching you to:
+- Solve problems (not memorize syntax)
+- Collaborate with AI (not vibe code)
+- Build understanding (not just ship code)
+- Retain knowledge (come back after months)
+
+**Traditional courses already do syntax/structure incredibly well.** We recommend them instead of duplicating that effort.
+
+**Our focus:** What happens AFTER you know basics — building real things with AI assistance while maintaining deep understanding.

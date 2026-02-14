@@ -6,6 +6,49 @@ Learn Python through **your choice** of two proven approaches - or use both toge
 
 ---
 
+## 🎯 Choose Your Learning Path
+
+### 🤖 AI-Native Path (⭐ What This Repo Focuses On)
+**Best for:** Anyone learning Python in 2026. Start here.
+- Solve real problems from day 1  
+- Learn to collaborate with AI tools (Cursor, Copilot, Claude)
+- Build genuine understanding through building (anti-vibe-coding)
+- **Start with:** `START_HERE.md` → `problem_solving/` → Build projects
+
+**This is where all the unique content lives:**
+- `problem_solving/` - Problem-first frameworks
+- `ai_collaboration/` - Prompting, reviewing, iterating with AI
+- `python_concepts/` - Mental models that stick
+- `real_projects/` - Full AI collaboration workflows
+
+---
+
+### 📚 Traditional Path (External Resources)
+**Best for:** Prefer structured tutorials without AI assistance.
+
+This repo doesn't reinvent traditional learning. Instead, we recommend proven resources:
+
+**Free & Excellent:**
+- [freeCodeCamp - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+- [Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) (free online)
+
+**Paid (Worth It):**
+- Python Crash Course by Eric Matthes
+- Real Python membership
+
+**After completing basics, come back here to build real projects with AI.**
+
+---
+
+### 🔄 Hybrid Path
+**Best for:** Want both approaches.
+1. Start with freeCodeCamp or Automate the Boring Stuff for fundamentals
+2. Use this repo's `problem_solving/` frameworks to build real projects
+3. Apply AI collaboration techniques as you build
+4. Reference `python_concepts/mental_models/` when concepts click
+
+---
+
 ## 🎯 What This Repository Is
 
 A complete Python learning system that:
@@ -130,6 +173,8 @@ python-learning/
 - Switch between them as needed
 - Use projects from both paths
 - Learn in the way that works best for YOU
+
+**Important:** This repo focuses specifically on the AI-native path. For traditional structured courses (syntax drills, incremental exercises), we recommend freeCodeCamp and Automate the Boring Stuff — they're excellent and we won't duplicate that work. Come here when you're ready to build real projects.
 
 ---
 

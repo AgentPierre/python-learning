@@ -2,7 +2,7 @@
 
 > **Get your Python environment ready in 15 minutes**
 
-This guide will help you set up everything you need to start learning Python, regardless of which learning path you choose.
+This guide will help you set up everything you need to start learning Python. **If you're taking the AI-native path, also set up an AI coding tool** (Cursor or GitHub Copilot) - they're essential for that approach.
 
 ---
 
@@ -13,6 +13,33 @@ This guide will help you set up everything you need to start learning Python, re
 3. **Git** - Version control (for saving your progress)
 4. **GitHub account** - To backup your work
 5. **Python packages** - Tools for specific projects
+6. **[Optional] AI Coding Tool** - For AI-native learning path
+
+---
+
+## 🤖 AI Coding Tools (For AI-Native Path)
+
+If you're following the AI-native learning path, pick ONE of these:
+
+### **Cursor** ⭐ (Highly Recommended)
+**What:** AI-focused code editor built on VS Code  
+**Cost:** Free tier available, $20/month for Pro  
+**Best for:** Building projects with substantial AI assistance  
+**Get it:** [cursor.com](https://cursor.com)
+
+### **GitHub Copilot**
+**What:** AI autocomplete in your favorite editor  
+**Cost:** $10/month (free for students)  
+**Best for:** Writing code faster with intelligent suggestions  
+**Get it:** [github.com/features/copilot](https://github.com/features/copilot)
+
+### **Claude.ai** (Free)
+**What:** Chat with AI for explanations and code review  
+**Cost:** Free, Pro $20/month  
+**Best for:** Understanding concepts, debugging, iterating on solutions  
+**Get it:** [claude.ai](https://claude.ai)
+
+**Note:** Many learners use Cursor + Claude.ai together. Claude is free if you already use the browser.
 
 ---
 

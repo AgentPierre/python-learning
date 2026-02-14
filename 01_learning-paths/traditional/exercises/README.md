@@ -1,52 +1,41 @@
 # Practice Exercises
 
-Small, focused practice scripts organized by topic. These are coding drills to build muscle memory.
+**Note:** This repo focuses on AI-native, problem-first learning. For traditional structured exercises, we recommend:
 
-## Organization
+## Recommended External Resources
 
-Each subfolder contains exercises for a specific topic:
+### Free Practice Platforms
+- **freeCodeCamp** - [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)  
+  Structured exercises with automated tests
+  
+- **Automate the Boring Stuff** - [Free online book](https://automatetheboringstuff.com/)  
+  Practice problems at end of each chapter
 
-- **01_basics/** - Variables, operators, input/output
-- **02_data_structures/** - Lists, dictionaries, tuples, sets
-- **03_functions/** - Function definitions, lambda, decorators
-- **04_files_io/** - Reading/writing files, paths
-- **05_automation/** - Regex, system operations, automation basics
+- **Python.org Tutorial** - [Official docs](https://docs.python.org/3/tutorial/)  
+  Interactive examples you can try
 
-## How to Use
+### When to Use This vs AI-Native Approach
 
-1. **Create one file per concept** (e.g., `loops.py`, `dictionaries.py`)
-2. **Practice deliberately** - Focus on understanding, not completion
-3. **Experiment freely** - This is your sandbox
-4. **Don't worry about perfection** - These are throwaway scripts
+**Use external exercises when:**
+- You want structured, incremental practice
+- You prefer traditional learning style
+- You're building syntax muscle memory
 
-## Example Exercise File
+**Use this repo's `problem_solving/` when:**
+- You want to build real tools
+- You want to learn AI collaboration
+- You want projects for your portfolio
 
-```python
-# exercises/01_basics/loops.py
+## Alternative: Build Your Own Exercises
 
-# Exercise 1: Print numbers 1-10
-for i in range(1, 11):
-    print(i)
+Instead of following exercises, try this AI-native approach:
 
-# Exercise 2: Sum of even numbers from 1-100
-total = sum(i for i in range(1, 101) if i % 2 == 0)
-print(f"Sum of even numbers: {total}")
+1. Pick a concept from `python_concepts/mental_models/`
+2. Ask AI: "Give me a small problem that uses [concept]"
+3. Solve it with AI collaboration
+4. Complete the understanding checkpoint
+5. Document what you learned
 
-# Exercise 3: FizzBuzz
-for i in range(1, 21):
-    if i % 15 == 0:
-        print("FizzBuzz")
-    elif i % 3 == 0:
-        print("Fizz")
-    elif i % 5 == 0:
-        print("Buzz")
-    else:
-        print(i)
-```
-
-## Tips
-
-- Run each file to test your code: `python exercises/01_basics/loops.py`
-- Add comments explaining what you're practicing
+**This builds problem-solving skills, not just syntax recall.**
 - Try multiple approaches to the same problem
 - Refer back to these when starting projects
